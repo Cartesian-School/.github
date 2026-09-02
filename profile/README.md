@@ -1,5 +1,12 @@
 # Cartesian School
 
+<p align="center">
+  <strong>EN</strong> ·
+  <a href="https://github.com/Cartesian-School/.github/blob/main/profile/README.zh-CN.md">中文</a> ·
+  <a href="https://github.com/Cartesian-School/.github/blob/main/profile/README.pl.md">PL</a> ·
+  <a href="https://github.com/Cartesian-School/.github/blob/main/profile/README.ru.md">RU</a>
+</p>
+
 ### Engineering education built around real software
 
 **Cartesian School** is an open-source educational initiative focused on practical software engineering, computer science, AI, and modern development tools.
@@ -90,7 +97,7 @@ Our curriculum is being developed for multilingual delivery.
 
 Current and planned language tracks include:
 
-**RU · PL · EN**
+**RU · PL · EN · ZH**
 
 ---
 
